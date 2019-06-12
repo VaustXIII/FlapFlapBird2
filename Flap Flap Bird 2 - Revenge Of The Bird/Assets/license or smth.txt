@@ -1,0 +1,4 @@
+Art and sfx taken from edX gd50 course - https://www.edx.org/course/cs50s-introduction-to-game-development
+Music from https://filmmusic.io:
+"Wretched Destroyer" by Kevin MacLeod (https://incompetech.com)
+Licence: CC BY (http://creativecommons.org/licenses/by/4.0/)
